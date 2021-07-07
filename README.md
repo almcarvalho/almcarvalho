@@ -2,7 +2,7 @@ Sobre mim:
 Fiz minha graduação em Sistemas de Informação em 2013. Já na minha graduação criei um sistema para condomínios usando .NET e Aplicação Local instalada na própria máquina do cliente, cheguei a ter 5 clientes mas o projeto não decolou...
 De lá pra cá, criei mais alguns programas para desktop (Sistema pra lojas (controle de crediário, emissão e notas fiscais, cadastros de clientes), Sistema para controles de cargas em balanças rodoviárias). A cada contato com um cliente novo eu fazia uma análise de requisitos e procurava entregar um progrma fácil de operar pois eu percebia que as pessoas que usavam os programas precisavam de algo prático, uma ferramenta de apoio diário em suas atividades. Todos esses programas foram ficando obsoletos com o passar do tempo e estou atualmente (Jun/2021) renovando meus conhecimentos para partir para web...
 
-Procuro projetoS interessantes para aprender ao máximo e colocar em prática as tecnologias que eu estou estudando.
+Procuro projetos interessantes para aprender ao máximo e colocar em prática as tecnologias que eu estou estudando.
 Se o projeto for mesmo interessante e tiver uma equipe boa eu topo ser voluntário para agregar no meu portifólio.
 
 
