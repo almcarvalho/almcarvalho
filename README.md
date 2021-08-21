@@ -10,19 +10,16 @@ Se o projeto for mesmo interessante e tiver uma equipe boa eu topo ser voluntár
 
 This is my github repository, I've been working on desktop projects with C# and Sql Server Aplications since 2013, now I'm Looking for new Challenges on Web Applications, now I'm studying web technologies to develop entire web applications. Aiming to be a full stack developer, looking Start ups, companies where I can work and learn as much as I can. I speak English well, so, Let's get connected.
 
-Estudando pesado: Studying Hard:
-Backend: Node.JS, Next.JS, Firebase.
-Frontend: HTML5, SCSS, JAVASCRIPT, REACT.
-Providers: AMAZON S2, VERCEL.
 
 - 📫 How to reach me: WhatsApp 55 79 9 9831-4582 or email: antoniolucasmcarvalho@gmail.com
 
 - ⚡ Fun fact: Recently a daddy, Love Dogs.
 
-Recently Web sites Created and maintained by me: (SITES ESTÁTICOS ADMINISTRADOS POR MIM)
+
+Recently Web sites maintained by me:
 https://innoveodontologia.com.br/
 https://www.asterprojetos.com.br/
 
-My Blog:
-https://universotecnologianow.wordpress.com/
+Personal/Company
+@br.lcsistemas on Instagram.
 
