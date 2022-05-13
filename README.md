@@ -9,5 +9,5 @@ Professional Contact:
 @br.lcsistemas on Instagram.
 📫 WhatsApp 55 75 9 9874-3948
 
-⚡ Fun fact: Recently a daddy, 2 Dogs, Drummer, English Teacher.
+⚡ Fun fact: Recently a daddy, 2 Dogs, Drummer, English Teacher for 5 years.
 
